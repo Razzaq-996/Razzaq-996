@@ -1,32 +1,49 @@
 # Hi 👋 I'm Abdul Razzaq
 
-💻 Aspiring Web Developer
-🚀 MERN Stack Enthusiast
+💻 **Aspiring Web Developer**
+🚀 **MERN Stack Enthusiast**
 
-## 🌱 Currently Learning
+---
+
+## 🌐 About Me
+
+* Passionate about building modern web applications
+* Interested in full-stack development using the MERN stack
+* Continuously improving my skills in web technologies
+
+---
+
+## 🛠️ Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,bootstrap,git,github,vscode" />
+</p>
+
+**Technologies I work with:**
 
 * MongoDB
 * Express.js
 * React.js
 * Node.js
 * JavaScript
-
-## 🛠️ Skills
-
 * HTML
 * CSS
 * Bootstrap
-* JavaScript
 * Git & GitHub
+
+---
 
 ## 📌 Projects
 
-* Civic Micro Task
-* Campus Event Connect
+* **Civic Micro Task**
+* **Campus Event Connect**
+
+---
 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Razzaq-996
+
 
 
 <!--
