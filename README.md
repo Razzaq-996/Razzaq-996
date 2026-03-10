@@ -1,4 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Abdul Razzaq
+
+💻 Aspiring Web Developer
+🚀 MERN Stack Enthusiast
+
+## 🌱 Currently Learning
+
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+* JavaScript
+
+## 🛠️ Skills
+
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* Git & GitHub
+
+## 📌 Projects
+
+* Civic Micro Task
+* Campus Event Connect
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Razzaq-996
+
 
 <!--
 **Razzaq-996/Razzaq-996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
